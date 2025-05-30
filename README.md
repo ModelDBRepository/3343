@@ -92,9 +92,6 @@ Destexhe@iaf.cnrs-gif.fr
 - 7/11/2005 Additional modifications to restart by first closing other simulation windows and also updating README contact information.
 - 2/14/2001 Michael Hines trivially modified some of the hoc files to use the more flexible load_file in place of certain xopen statements, ensure that the current version of the standard gui library comes up first, and arrange graphs on the screen.
   Not yet: He also updated the mod files to be compatible with cvode and make use of internal compuations of ionic reversal potential. This version is quantitatively identical to the original.
-- 10-2007: AD, better synaptic mechanisms using counters; added delta oscillations.
-- 20120106 updated mod files IT.mod IT2.mod cadecay.mod gabab.mod SOLVE methods as suggested in web page [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
-
----
-
-2025-05-27 – Standardized to Markdown
+- 10/2007 AD, better synaptic mechanisms using counters; added delta oscillations.
+- 1/6/2012 updated mod files IT.mod IT2.mod cadecay.mod gabab.mod SOLVE methods as suggested in web page [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
+- 5/27/2025 Standardized to Markdown
